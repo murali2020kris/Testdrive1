@@ -1,0 +1,6 @@
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\bin\Debug\murbuildtest.exe.config
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\bin\Debug\murbuildtest.exe
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\bin\Debug\murbuildtest.pdb
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\obj\Debug\murbuildtest.csprojResolveAssemblyReference.cache
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\obj\Debug\murbuildtest.exe
+c:\users\mkrish6\documents\visual studio 2013\Projects\murbuildtest\murbuildtest\obj\Debug\murbuildtest.pdb
