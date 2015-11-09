@@ -15,7 +15,7 @@
        <asp:DropDownList ID="ddlsubcat" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlsubcat_SelectedIndexChanged">
        </asp:DropDownList>
        <br />
-       load contilou<br />
+       load conilou<br />
        <asp:GridView ID="grdcustomer" runat="server" AllowPaging="True" CellPadding="4" ForeColor="#333333" GridLines="None" Width="60%" OnPageIndexChanging="grdcustomer_PageIndexChanging">
            <AlternatingRowStyle BackColor="White" ForeColor="#284775" Height="20px" />
           
