@@ -66,7 +66,7 @@
       <div>
         <p class="sideBarTitle">Navigate this page</p>
         <ul>
-          <li><a href="#introduction">&rsaquo; Introduction</a></li>
+          <li><a href="SearchTime.aspx">&rsaquo; Search Time</a></li>
           <li><a href="#cross-browser" title="Improved cross-browser compatibility">&rsaquo; Cross-browser</a></li>
           <li><a href="#stylesheets" title="Modified stylesheets">&rsaquo; Stylesheets</a></li>
           <li><a href="#accessibility" title="Improved accessibility">&rsaquo; Accessibility</a></li>
